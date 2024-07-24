@@ -113,4 +113,4 @@ Contributions are welcome! Please follow these steps:
 
 ## Demo
 
-![MultiSend DApp Demo](../multisend/public/vercel.svg)
+![MultiSend DApp Demo](https://github.com/iamnas/multisend-dapp/blob/main/multisend/public/multisend.gif)
