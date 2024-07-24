@@ -69,7 +69,7 @@ cd multisend-dapp
 4. Deploy the smart contracts to your desired network (e.g., Sepolia testnet):
 
     ```sh
-    forge script script/Deploy.s.sol --rpc-url <RPC_URL> --private-key <PRIVATE_KEY>
+    forge script script/DeployScript.s.sol --rpc-url <RPC_URL> --private-key <PRIVATE_KEY> --broadcast
     ```
 
 #### Front-end Application
@@ -110,3 +110,7 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
+
+## Demo
+
+![MultiSend DApp Demo](../multisend/public/multisend.gif)
