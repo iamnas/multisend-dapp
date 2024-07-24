@@ -113,4 +113,4 @@ Contributions are welcome! Please follow these steps:
 
 ## Demo
 
-![MultiSend DApp Demo](../multisend/public/multisend.gif)
+![MultiSend DApp Demo](../multisend/public/vercel.svg)
